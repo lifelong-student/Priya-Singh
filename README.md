@@ -1,2 +1,3 @@
 # Priya Singh
-[title](http://www.dtu.ac.in/Web/Departments/SE/faculty)
+
+[web](http://www.dtu.ac.in/Web/Departments/SE/faculty)
