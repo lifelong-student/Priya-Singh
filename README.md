@@ -1,6 +1,5 @@
-| [About] | [Interest Areas] | [Contact] |
+| [About] (https://github.com/lifelong-student/Priya-Singh/blob/main/about.md) | [Interest Areas] | [Contact] |
 
-Currently on duty to guide and impact upcoming IT specialists for a brighter future of the IT industry. Former Software Developer at Oracle. Experienced in 5G Core Network Functions. Demonstrated history of working in the Computer Science Industry. Expertise- Machine Learning, Software Engineering. Open for work collaborations (teaching/non-teaching).
 
 Interest Areas
 - Deep Learning
