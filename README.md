@@ -1,5 +1,5 @@
 # About
-![alt text](pic.jpeg)
+![alt text](pic.jpeg =250x250)
 Hello. I am currently **Assistant Professor** in the department of *Software Engineering* ([profile here](http://www.dtu.ac.in/Web/Departments/SE/faculty)), **Delhi Technological University**, Delhi, India.
 
 # Experience
