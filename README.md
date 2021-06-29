@@ -1,4 +1,4 @@
-| [About] (https://github.com/lifelong-student/Priya-Singh/blob/main/about.md) | [Interest Areas] | [Contact] |
+| [About](https://github.com/lifelong-student/Priya-Singh/blob/main/about.md) | [Interest Areas] | [Contact] |
 
 
 Interest Areas
