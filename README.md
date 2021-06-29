@@ -1,5 +1,5 @@
 # About
-<img src="pic.jpeg" width="200" height="200"> Hello. I am currently **Assistant Professor** in the department of *Software Engineering* ([profile here](http://www.dtu.ac.in/Web/Departments/SE/faculty)), **Delhi Technological University**, Delhi, India.
+<img src="pic.jpeg" width="400" height="400">   Hello, thanks for passing by. I am currently **Assistant Professor** in the department of *Software Engineering* ([profile here](http://www.dtu.ac.in/Web/Departments/SE/faculty)), **Delhi Technological University**, Delhi, India.
 
 # Experience
 
