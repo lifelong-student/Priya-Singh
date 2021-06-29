@@ -1,11 +1,7 @@
-| [About](https://github.com/lifelong-student/Priya-Singh/blob/main/about.md) | [Interest Areas] | [Contact] |
+| [About](https://github.com/lifelong-student/Priya-Singh/blob/main/about.md) | [Research Interests](https://github.com/lifelong-student/Priya-Singh/blob/main/interest.md) | [Contact](https://github.com/lifelong-student/Priya-Singh/blob/main/contact.md) |
 
 
-Interest Areas
-- Deep Learning
-- Machine Learning
-- Software Engineering
-- Algorithms and Data Structure
-- Software Development
 
-[web](http://www.dtu.ac.in/Web/Departments/SE/faculty)
+
+
+
