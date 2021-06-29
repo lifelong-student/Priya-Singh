@@ -1,5 +1,6 @@
 # About
 ![alt text](pic.jpeg | width=100)
+<img src="pic.jpeg" width="100" height="100">
 Hello. I am currently **Assistant Professor** in the department of *Software Engineering* ([profile here](http://www.dtu.ac.in/Web/Departments/SE/faculty)), **Delhi Technological University**, Delhi, India.
 
 # Experience
