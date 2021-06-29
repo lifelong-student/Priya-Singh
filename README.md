@@ -1,4 +1,4 @@
-![alt text](pic.jpg)
+![alt text](pic.jpeg)
 # H1 About
 # H1 Experience
 # H1 Research Interests
